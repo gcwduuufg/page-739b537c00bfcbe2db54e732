@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "082d2a0a4d8a038d46c6a6ab",
+  "owner": "gcwduuufg",
+  "repo": "page-739b537c00bfcbe2db54e732",
+  "title": "破烂小屋",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "739b537c00bfcbe2db54e732",
+      "a": "破烂小屋",
+      "b": "",
+      "entity": "破烂小屋",
+      "brand": "破烂小屋",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7469e315a4dca20d0a26238de9b5647d28fd981b73fd7d8dd1fc967d8ee6723b",
+      "content": {
+        "keyword1": "破烂小屋",
+        "keyword2": "",
+        "primary_entity": "破烂小屋",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "破烂小屋提供基础版、旗舰版和团队版的服务方案。根据需求选择最适合的方案，满足不同使用场景。",
+          "AI_DESCRIPTION": "破烂小屋提供基础版、旗舰版和团队版的服务方案。根据需求选择最适合的方案，满足不同使用场景。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n        500;700&display=swap');\n        \n        :root {--accent: #10b981}\n        \n        * {margin: 0;padding: 0;box-sizing: border-box}\n        \n        body {font-family: 'Noto Sans SC', system-ui, sans-serif;line-height: 1.6;color: #e5e5e5;background: #111111;overflow-x: hidden}\n        \n        .hero {position: relative;height: 520px;width: 100%;overflow: hidden;background: linear-gradient(180deg, #1a1a1a 0%, #222222 50%, #1a1a1a 100%)}\n        \n        .color-band {position: absolute;width: 100%;height: 110px;left: 0;transition: all 0.6s ease}\n        \n        .color-band:nth-child(1) {top: 0;background: #1f1f1f}\n        .color-band:nth-child(2) {top: 110px;background: #2a2a2a}\n        .color-band:nth-child(3) {top: 220px;background: #1f1f1f}\n        .accent-band {top: 330px;background: var(--accent);height: 90px;opacity: 0.15}\n        .color-band:nth-child(4) {top: 420px;background: #2a2a2a}\n        .color-band:nth-child(5) {top: 510px;background: #1f1f1f}\n        \n        .hero-content {position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);text-align: center;z-index: 10;width: 100%;padding: 0 20px}\n        \n        .hero h1 {font-size: clamp(2.8rem, 8vw, 4.2rem);font-weight: 700;color: #fff;margin-bottom: 12px;text-shadow: 0 4px 20px rgba(0,0,0,0.6)}\n        \n        .hero-subtitle {font-size: 1.35rem;color: #ddd;margin-bottom: 16px;font-weight: 500}\n        \n        .hero-desc {font-size: 1.1rem;max-width: 520px;margin: 0 auto 32px;opacity: 0.85}\n        \n        .cta-button {display: inline-block;background: var(--accent);color: #111;font-weight: 700;padding: 14px 32px;border-radius: 9999px;text-decoration: none;font-size: 1.05rem;transition: all 0.3s ease;box-shadow: 0 10px 30px rgba(16, 185, 129, 0.3)}\n        \n        .cta-button:hover {transform: translateY(-3px);box-shadow: 0 15px 40px rgba(16, 185, 129, 0.4)}\n        \n        .plans-section {padding: 80px 20px 60px;max-width: 1280px;margin: 0 auto}\n        \n        .plans-section h2 {font-size: 2.1rem;text-align: center;margin-bottom: 48px;color: #fff}\n        \n        .plans-container {display: flex;flex-wrap: wrap;gap: 32px;max-width: 1100px;margin: 0 auto}\n        \n        .plans-left {flex: 1;min-width: 280px;display: flex;flex-direction: column;gap: 28px}\n        \n        .plans-right {flex: 1;min-width: 300px;position: relative}\n        \n        .plan-card {background: #1f1f1f;border: 2px dotted #555;border-radius: 12px;padding: 32px 28px;transition: all 0.4s ease}\n        \n        .plan-card:hover {border-color: #888;transform: translateY(-8px)}\n        \n        .plan-card h3 {font-size: 1.65rem;margin-bottom: 12px;color: #fff}\n        \n        .price {font-size: 2.4rem;font-weight: 700;color: var(--accent);margin-bottom: 8px}\n        \n        .annual {font-size: 0.95rem;color: #aaa;margin-bottom: 24px}\n        \n        .plan-card ul {list-style: none}\n        \n        .plan-card ul li {padding: 10px 0;font-size: 1.05rem;color: #ddd;position: relative;padding-left: 28px}\n        \n        .plan-card ul li:before {content: \"•\";position: absolute;left: 0;color: var(--accent)}\n        \n        .recommended-badge {position: absolute;top: -18px;right: 32px;background: #ef4444;color: white;font-size: 0.95rem;font-weight: 700;padding: 8px 22px;border-radius: 9999px;box-shadow: 0 6px 20px rgba(239, 68, 68, 0.4);z-index: 5;white-space: nowrap}\n        \n        .plans-right .plan-card {margin-top: 60px}\n        \n        .plans-right .flagship {border-color: var(--accent);background: linear-gradient(145deg, #1f1f1f, #222)}\n        \n        .faq-section {padding: 80px 20px 100px;background: #0f0f0f}\n        \n        .faq-section h2 {font-size: 2.1rem;text-align: center;margin-bottom: 48px;color: #fff}\n        \n        .faq-container {max-width: 820px;margin: 0 auto}\n        \n        .faq-item {display: flex;flex-direction: column;margin-bottom: 32px;gap: 12px}\n        \n        .bubble {max-width: 85%;padding: 18px 24px;border-radius: 9999px;font-size: 1.05rem;line-height: 1.5}\n        \n        .question {background: #222;color: #ddd;align-self: flex-end;border-bottom-left-radius: 8px}\n        \n        .answer {background: var(--accent);color: #111;align-self: flex-start;border-bottom-right-radius: 8px}\n        \n        @media (max-width: 768px) {\n            .hero {height: 460px}\n            \n            .hero h1 {font-size: 2.6rem}\n            \n            .plans-container {flex-direction: column}\n            \n            .plans-left {order: 2}\n            \n            .plans-right {order: 1}\n            \n            .recommended-badge {top: 12px;right: 20px;font-size: 0.85rem;padding: 6px 16px}\n            \n            .faq-item .bubble {max-width: 100%}\n        }\n        \n        .footer {text-align: center;padding: 40px 20px 60px;font-size: 0.9rem;color: #666}\n    </style><section class=\"hero\">\n        <div class=\"color-band\"></div>\n        <div class=\"color-band\"></div>\n        <div class=\"color-band\"></div>\n        <div class=\"accent-band\"></div>\n        <div class=\"color-band\"></div>\n        <div class=\"color-band\"></div>\n        <div class=\"hero-content\">\n            <h1>破烂小屋</h1>\n            <p class=\"hero-subtitle\">实用服务方案</p>\n            <p class=\"hero-desc\">根据需求选择最适合的方案，满足不同使用场景。</p>\n            <a href=\"#plans\" class=\"cta-button\">立即查看方案</a>\n        </div>\n    </section>\n\n    <section id=\"plans\" class=\"plans-section\">\n        <h2>选择适合您的服务方案</h2>\n        <div class=\"plans-container\">\n            <div class=\"plans-left\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <div class=\"price\">¥15/月</div>\n                    <div class=\"annual\">按年付仅需 ¥150/年</div>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                \n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <div class=\"price\">¥85/月</div>\n                    <div class=\"annual\">按年付仅需 ¥850/年</div>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n            \n            <div class=\"plans-right\">\n                <div class=\"recommended-badge\">推荐方案</div>\n                <div class=\"plan-card flagship\">\n                    <h3>旗舰版</h3>\n                    <div class=\"price\">¥35/月</div>\n                    <div class=\"annual\">按年付仅需 ¥350/年</div>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n            </div>\n        </div>\n    </section>\n\n    <section id=\"faq\" class=\"faq-section\">\n        <h2>常见问题</h2>\n        <div class=\"faq-container\">\n            <div class=\"faq-item\">\n                <div class=\"bubble question\">问题：哪种方案最适合个人用户？</div>\n                <div class=\"bubble answer\">答案：基础版每月100GB流量，支持3台设备，适合大多数个人需求。</div>\n            </div>\n            <div class=\"faq-item\">\n                <div class=\"bubble question\">问题：旗舰版有哪些优势？</div>\n                <div class=\"bubble answer\">答案：旗舰版提供300GB流量，支持5台设备，并有IPLC专线优化，适合游戏和多设备用户。</div>\n            </div>\n            <div class=\"faq-item\">\n                <div class=\"bubble question\">问题：团队版如何使用？</div>\n                <div class=\"bubble answer\">答案：团队版支持20台设备，有VIP高带宽节点和专属客户经理，适合企业或多人使用。</div>\n            </div>\n            <div class=\"faq-item\">\n                <div class=\"bubble question\">问题：年付方案有什么好处？</div>\n                <div class=\"bubble answer\">答案：年付可以节省成本，基础版仅需150元，旗舰版350元，团队版850元。</div>\n            </div>\n            <div class=\"faq-item\">\n                <div class=\"bubble question\">问题：方案如何生效？</div>\n                <div class=\"bubble answer\">答案：选择方案后即可使用对应流量和设备支持。</div>\n            </div>\n        </div>\n    </section></main>",
+          "hash": "f46a95ecbf3e86b02930de4251b44aa656a17056ee86b5270dd4aff43a48c6fd",
+          "seo": {
+            "title": "破烂小屋 | 实用服务方案",
+            "keywords": "破烂小屋,实用服务方案,基础版,旗舰版,团队版",
+            "description": "破烂小屋提供基础版、旗舰版和团队版的服务方案。根据需求选择最适合的方案，满足不同使用场景。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "959",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "10 黑白灰单色配一处强调色",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "5 两栏对照配推荐标记",
+            "faq_view": "5 对话气泡式问答",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "oedfc.cn",
+    "host": "p-b695a16942.oedfc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "bf3765c9f584288e5960fd6cd407e7e8f772082cedd1b6e331dcc00b64320f26",
+    "sitemap.xml": "2d4315d74d6473a34bc7fc0735819ca7d1d1318a2f1d922108f81b9a1d2dabd2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a1b45e4cf6e35a2d6a2c3602ca653acecaeaad8444171ef4019b54b74d6f0baf",
+    "robots.txt": "d15b1b72afa48da0d03aa5092d3f5d86e574c94c0998ab494c928836d18c493d",
+    "c3f9e78c278598a61a9bddc6d24ece29.txt": "95599fdac60d49870d3d945778e45c73c2628cbe5e302d985742302a798d1f5f"
+  },
+  "revision": "a3739a15487e769f9a93eac8e3fa0e776cbe300bf49cee57e9ec601d99c8485c"
+}
